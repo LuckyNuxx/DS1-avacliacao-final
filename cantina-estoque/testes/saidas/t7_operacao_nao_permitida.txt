@@ -1,0 +1,97 @@
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Cadastro de produto ---
+Código: Nome: Preço unitário (R$): Quantidade em estoque: Produto cadastrado com sucesso!
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Registro de venda ---
+Código do produto: Quantidade vendida: Venda registrada com sucesso! Estoque atual de Suco: 7 unidade(s).
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Registro de venda ---
+Código do produto: Quantidade vendida: Venda recusada: estoque insuficiente. Disponível: 7 unidade(s).
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Registro de venda ---
+Código do produto: Quantidade vendida: Venda recusada: a quantidade vendida deve ser maior que zero.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Registro de venda ---
+Código do produto: Quantidade vendida: Venda recusada: a quantidade vendida deve ser maior que zero.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Registro de venda ---
+Código do produto: Produto com código 555 não encontrado.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Busca de produto ---
+Código do produto: Código: 101 | Nome: Suco | Preço: R$ 5,00 | Estoque: 7 | Valor em estoque: R$ 35,00
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Valor total do estoque ---
+Valor total do estoque: R$ 35,00
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: Encerrando o programa. Até logo!

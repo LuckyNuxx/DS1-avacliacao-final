@@ -1,0 +1,53 @@
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Lista de produtos ---
+Nenhum produto cadastrado.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Valor total do estoque ---
+Nenhum produto cadastrado. Valor total: R$ 0,00
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Busca de produto ---
+Código do produto: Produto com código 101 não encontrado.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Registro de venda ---
+Código do produto: Produto com código 101 não encontrado.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: Encerrando o programa. Até logo!

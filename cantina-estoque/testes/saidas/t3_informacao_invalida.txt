@@ -1,0 +1,65 @@
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Cadastro de produto ---
+Código: Nome: Erro: o nome não pode ser vazio.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Cadastro de produto ---
+Código: Nome: Preço unitário (R$): Valor inválido! Digite um número (ex.: 5,50).
+Preço unitário (R$): Erro: o preço deve ser maior que zero.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Cadastro de produto ---
+Código: Nome: Preço unitário (R$): Quantidade em estoque: Erro: a quantidade em estoque não pode ser negativa.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Cadastro de produto ---
+Código: Erro: o código deve ser um número inteiro maior que zero.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: 
+--- Lista de produtos ---
+Nenhum produto cadastrado.
+
+===== CANTINA - CONTROLE DE ESTOQUE =====
+1 - Cadastrar produto
+2 - Listar todos os produtos
+3 - Buscar produto pelo código
+4 - Registrar venda
+5 - Exibir valor total do estoque
+6 - Sair
+Escolha uma opção: Encerrando o programa. Até logo!
